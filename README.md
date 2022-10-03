@@ -4,7 +4,7 @@ Collection of DSA problems and solutions
  Rules : Use proper folders and subfolders to define catagory and put program file(c/c++/java/python/js) and explanation in a readme file
  
  
- HACKTOBERFEST 2021 IS HERE !!!
+ HACKTOBERFEST 2022 IS HERE !!!
 What is Hacktoberfest ?
 Hacktoberfest is a month-long challenge. It happens every year in the month of October.
 Hacktoberfest is open to everyone and it marks the celebration of Open Source. It's the biggest Open Source event that encourages newbies to participate in Open Source and create their 1st meaningful PR.
